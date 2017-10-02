@@ -23,6 +23,7 @@ h5{
 	width: 100%;
 	margin: 0 auto;
 }
+
 nav{
 	background: #E40079;
 }
@@ -79,6 +80,9 @@ a{
 
 .material-icons{
 	color:#fff;
+}
+.download{
+	background: #E40079;
 }
 a:hover{
 	color:rgba(0,0,0,.5);
